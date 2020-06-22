@@ -1,0 +1,11 @@
+{
+    "/odata": {
+        "target": "https://services.odata.org/TripPinRESTierService/(S(ek3zvxda1nc0ljv3ezix0orz))/",
+        "secure": true,
+        "logLevel": "debug",
+        "changeOrigin": true,
+        "pathRewrite": {
+            "^/odata": ""
+          }
+    }
+}
